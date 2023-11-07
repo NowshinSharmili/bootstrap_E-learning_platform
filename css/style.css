@@ -1,0 +1,34 @@
+*{
+    font-family: 'Cabin', sans-serif;
+}
+.grayArea{
+    background-color: #dedede31;
+}
+
+
+.logo{
+    width: 23px;
+    height: 23px;
+    background-color: rgba(0, 128, 0, 0.254);
+    border-radius: 50%;
+    text-align: center;
+    padding: 8px;
+  
+}
+.btn{
+    background-color: #4595a938;
+    color: #0e728b;
+    font-size: 12px;
+}
+.btn:hover{
+    background-color: #4595a984;
+}
+.heading{
+    color: #0e728b;
+}
+.hLine{
+    font-weight:bolder;
+}
+.arrow{
+    font-size: 8px;
+}
